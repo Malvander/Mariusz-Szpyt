@@ -1,4 +1,4 @@
-#BestBuy Store Api test
+# BestBuy Store Api test
 
 The project contains automation tests for BestBuy Store Api.
 
@@ -14,12 +14,12 @@ I decided to automate store related endpoints the cases will only test its funct
 0. Adding a store
 
 
-##Getting Started
+## Getting Started
 
 To run properly on your local machine compile it first to generate code from 
 swagger. Once you compiled it - it stores in `generated-sources` folder.
 
-##Prerequisites
+## Prerequisites
 
 What things you need to install to run from IntelliJ:
 
@@ -28,7 +28,7 @@ What things you need to install to run from IntelliJ:
  Link to install: https://plugins.jetbrains.com/plugin/6317-lombok-plugin
 
 
-##Running the tests
+## Running the tests
 
 You can run tests using command:
 
